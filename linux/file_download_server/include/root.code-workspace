@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ratio": "c",
+			"in.h": "c",
+			"epoll.h": "c",
+			"func.h": "c",
+			"tcp.h": "c",
+			"stdio.h": "c",
+			"pthread.h": "c",
+			"string_view": "c",
+			"regex": "c"
+		}
+	}
+}
